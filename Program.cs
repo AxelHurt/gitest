@@ -244,7 +244,6 @@ var nuevoAlumno = new Alumno()
 void RegistrarAlumno(Alumno nuevoAlumno)
 {
     var validacionAlumno = new AlumnoValidator();
-
     var resultado = validacionAlumno.Validate(nuevoAlumno);
 
     if (resultado.IsValid)
@@ -256,9 +255,6 @@ void RegistrarAlumno(Alumno nuevoAlumno)
         Console.WriteLine("Error al registrar alumno");
         Console.WriteLine(resultado.ToString());
     }
-
-
-
 }
 
 class Alumno
@@ -283,8 +279,6 @@ class Examen
     public string Horario { get; set; }
     public int Nota { get; set; }
 }
-
-
 
 class AlumnoValidator : AbstractValidator<Alumno>
 {
@@ -316,9 +310,8 @@ class AsignaturaValidator : AbstractValidator<Asignatura>
     public AsignaturaValidator()
     {
         RuleForEach(x => x.Examenes).SetValidator(new ExamenValidator());
-
-
-
+        RuleForEach(x => x.Examenes).SetValidator(new ExamenValidator());
+        RuleForEach(x => x.Examenes).SetValidator(new ExamenValidator());
     }
 }
 
