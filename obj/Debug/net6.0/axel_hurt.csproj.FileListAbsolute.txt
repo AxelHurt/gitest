@@ -1,0 +1,17 @@
+C:\Users\Alumno\source\repos\axel_hurt\bin\Debug\net6.0\axel_hurt.exe
+C:\Users\Alumno\source\repos\axel_hurt\bin\Debug\net6.0\axel_hurt.deps.json
+C:\Users\Alumno\source\repos\axel_hurt\bin\Debug\net6.0\axel_hurt.runtimeconfig.json
+C:\Users\Alumno\source\repos\axel_hurt\bin\Debug\net6.0\axel_hurt.dll
+C:\Users\Alumno\source\repos\axel_hurt\bin\Debug\net6.0\axel_hurt.pdb
+C:\Users\Alumno\source\repos\axel_hurt\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Alumno\source\repos\axel_hurt\obj\Debug\net6.0\axel_hurt.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\axel_hurt\obj\Debug\net6.0\axel_hurt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\axel_hurt\obj\Debug\net6.0\axel_hurt.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\axel_hurt\obj\Debug\net6.0\axel_hurt.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\axel_hurt\obj\Debug\net6.0\axel_hurt.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\axel_hurt\obj\Debug\net6.0\axel_hurt.csproj.CopyComplete
+C:\Users\Alumno\source\repos\axel_hurt\obj\Debug\net6.0\axel_hurt.dll
+C:\Users\Alumno\source\repos\axel_hurt\obj\Debug\net6.0\refint\axel_hurt.dll
+C:\Users\Alumno\source\repos\axel_hurt\obj\Debug\net6.0\axel_hurt.pdb
+C:\Users\Alumno\source\repos\axel_hurt\obj\Debug\net6.0\axel_hurt.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\axel_hurt\obj\Debug\net6.0\ref\axel_hurt.dll
