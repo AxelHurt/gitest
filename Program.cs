@@ -231,7 +231,7 @@ class DireccionValidator : AbstractValidator<Direccion>
 */
 
 
-
+/*
 using FluentValidation;
 
 var nuevoAlumno = new Alumno()
@@ -322,6 +322,15 @@ class ExamenValidator : AbstractValidator<Examen>
         
     }
 }
+*/
+
+
+
+
+
+
+
+
 
 
 

@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "axel_hurt": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
